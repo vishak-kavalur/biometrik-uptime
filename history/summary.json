@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biometrik.in.ico",
     "slug": "biometric-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.52%",
+    "uptimeDay": "86.69%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
     "time": 990,
-    "timeDay": 1049,
+    "timeDay": 0,
     "timeWeek": 990,
     "timeMonth": 990,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2025-02-20": 0
+      "2025-02-21": 36,
+      "2025-02-20": 156
     }
   }
 ]
